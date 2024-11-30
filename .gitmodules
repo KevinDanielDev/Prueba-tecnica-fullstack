@@ -1,0 +1,3 @@
+[submodule "NextTest"]
+	path = NextTest
+	url = https://github.com/KevinDanielDev/NextTest.git
