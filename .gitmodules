@@ -1,3 +1,6 @@
 [submodule "NextTest"]
 	path = NextTest
 	url = https://github.com/KevinDanielDev/NextTest.git
+[submodule "NestTest"]
+	path = NestTest
+	url = https://github.com/KevinDanielDev/NestTest.git
