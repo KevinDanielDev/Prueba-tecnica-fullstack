@@ -1,1 +1,9 @@
-Submódulos de cada proyecto (Front-End y Back-End)
+¡Hola!
+
+Quiero agradecerles por la oportunidad de presentar esta prueba técnica y demostrar mis conocimientos. Estoy emocionado de compartir el trabajo que he desarrollado y la estructura que he implementado tanto en el backend como en el frontend.
+
+Es importante mencionar que, para que todo funcione correctamente, deben primero levantar el servicio del backend. Este servicio está desarrollado con NestJS y pueden encontrar el código en el repositorio NestTest @ b8f903f
+
+Una vez que el backend esté en funcionamiento, podrán proceder a configurar y levantar el frontend, completando así el flujo completo de la aplicación.
+
+¡Espero que esta demostración cumpla con sus expectativas! 😊
